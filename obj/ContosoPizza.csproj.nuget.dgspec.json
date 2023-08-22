@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Projects\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Projects\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Projects\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "c:\\Projects\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Projects\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\нива20\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Projects\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\нива20\\AppData\\Roaming\\NuGet\\NuGet.Config",
